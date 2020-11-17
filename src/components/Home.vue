@@ -6,13 +6,14 @@
   </div>
 
 <div>
-  <b-img style="width: 100%; height: 100%; opacity: 0.8;" thumbnail fluid src="https://conteudo.imguol.com.br/c/entretenimento/53/2018/10/08/acai-4-1539021469189_v2_900x506.jpg"  alt="Image 1" ></b-img>
+  <b-img style="width: 100vw; height: 30vh; opacity: 0.95;" fluid src="https://i.imgur.com/GsFJjEb.png"  alt="Image 1" ></b-img>
 </div>
 
+
+    <b-card class="conteinerMenu">
     <div class="EscolhaSeuProduto">
 <h2 style="color: white;"><center>Escolha seu produto clicando nas imagens abaixo ou adicionando normalmente</center></h2>
-        </div>
-    <b-card class="conteinerMenu">
+        </div>      
       <b-row>
         <div class="divFotoMenu">
             <b-col> 
@@ -443,13 +444,18 @@
           { text: 'Doce de Leite +(R$2,00)', value: 'Doce de Leite', preco: 2.00 }
         ],
         carrinhos: [
-          {nomeProduto: 'AÇAÍ COPO', preco: 8.50, qtd: 1, tipo: 'Acai Copo', tam: '300ml', acompanhamentos:['leite em pó', 'paçoca', 'amendoin'], frutas: ['banana', 'morango'], obs: 'testando obs'},
-          {nomeProduto: 'AÇAÍ COPao', preco: 8.00, qtd: 1, tipo: 'Acai Copo', tam: '300ml', acompanhamentos:['leite em pó', 'paçoca', 'amendoin'], frutas: ['banana', 'morango'], obs: 'testando obs'}
+          {nomeProduto: 'AÇAÍ COPO', preco: 8.50, qtd: 1, tipo: 'Acai Copo', tam: '300ml', acompanhamentos:['Leite em pó', 'Paçoca', 'Amendoin'], frutas: ['Banana', 'Morango'], obs: 'testando obs'},
+          {nomeProduto: 'AÇAÍ COPao', preco: 8.00, qtd: 1, tipo: 'Acai Copo', tam: '300ml', acompanhamentos:['Leite em pó', 'Paçoca', 'Amendoin'], frutas: ['Banana', 'Morango'], obs: 'testando obs'}
         ],
         mini: true,
       }
     },
+    computed: {
+    },
     methods:{
+      removeCaracteres: function(id){
+        console.log(id);    
+      },      
       adicionarProduto(){        
         alert("Tipo do açaí: " + this.tipoProdutoSelecionado + "\n" +
         "Tamanho do açaí: " + this.tamanhoProdutoSelecionado + "\n" +
@@ -486,7 +492,7 @@
   height: 70px;
 }
 .EscolhaSeuProduto{
-background-color: #303F9E;
+background-color: #6C4564;
 }
 .header{
   background-color: #E6B412;
@@ -500,7 +506,7 @@ background-color: #303F9E;
   height: 130px;
 }
 .conteinerMenu{
-  background-color: #303F9E;
+  background-color: #6C4564;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
