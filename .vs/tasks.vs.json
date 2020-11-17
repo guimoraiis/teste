@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-hora-do-acai",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
