@@ -17,22 +17,22 @@
       <b-row>
         <div class="divFotoMenu">
             <b-col> 
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/HLx0TEb.png"  alt="Image 1" ></b-img>
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/TNVtFsh.png"  alt="Image 1" ></b-img>
             </b-col>
         </div>
         <div class="divFotoMenu">
             <b-col>
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/hkjO7lb.png" alt="Image 2"></b-img>
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/RfXbaFo.png" alt="Image 2"></b-img>
             </b-col>
         </div>
         <div class="divFotoMenu">
             <b-col>
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/qq6TDKr.png" alt="Image 3"></b-img>
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/wN0Pzs9.png" alt="Image 3"></b-img>
             </b-col>
         </div>
         <div class="divFotoMenu">    
             <b-col>
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/2kXwNs0.png" alt="Image 3"></b-img>
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/GFft3Bb.png" alt="Image 3"></b-img>
             </b-col>
         </div>
         <div class="divFotoMenu">  
@@ -41,18 +41,18 @@
             </b-col>
         </div>
         <div class="divFotoMenu">
-            <b-col>
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/mq0MsQ7.png" alt="Image 3"></b-img>
+            <b-col> 
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/l14JMC9.png" alt="Image 3"></b-img>
             </b-col>
         </div>
         <div class="divFotoMenu">          
             <b-col>
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/GmeXesY.png" alt="Image 3"></b-img>
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/XMkJ8Zc.png" alt="Image 3"></b-img>
             </b-col>
         </div>
         <div class="divFotoMenu">      
             <b-col>
-            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/fpZIDWR.png" alt="Image 3"></b-img>
+            <b-img class="fotosMenu" v-b-modal="'adicionarproduto'" thumbnail fluid rounded="circle" src="https://i.imgur.com/lMg2sQa.png" alt="Image 3"></b-img>
             </b-col>
         </div>                                                                            
       </b-row>
@@ -71,7 +71,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$7.00 - R$15.00</span></div>
    <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/HLx0TEb.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/TNVtFsh.png"></div>
   </div>
 </div>
 <br>
@@ -88,7 +88,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$8.00 - R$16.00</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/hkjO7lb.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/RfXbaFo.png"></div>
   </div>
 </div>
 <br>
@@ -105,7 +105,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$8.00 - R$17.00</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/qq6TDKr.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/wN0Pzs9.png"></div>
   </div>
 </div>
 <br>
@@ -122,7 +122,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$8.00 - R$17.00</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/2kXwNs0.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/GFft3Bb.png"></div>
   </div>
 </div>
 <br>
@@ -139,7 +139,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$8.00 - R$17.00</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/mlHSo9P.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/GFft3Bb.png"></div>
   </div>
 </div>
 <br>
@@ -156,7 +156,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$8.00 - R$11.00</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/mq0MsQ7.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/XMkJ8Zc.png"></div>
   </div>
 </div>
 <br>
@@ -173,7 +173,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$13.00</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/GmeXesY.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/l14JMC9.png"></div>
   </div>
 </div>
 <br>
@@ -190,7 +190,7 @@
   <div class="item_price" style="font-size: 1.2rem;font-weight: bold;margin-bottom: 10px;"><span style="font-size: 22px;">R$17.00 - R$39.90</span></div>
      <b-button class="button-pisca" v-b-modal="'adicionarproduto'">Adicionar</b-button>
   </div>
-  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/fpZIDWR.png"></div>
+  <div style="display: table-cell;vertical-align: top;padding: 10px;/*position: relative;*/"><img class="border rounded-circle item_thumb lightbox-imagem" style="border-radius: 10px; object-fit: cover; width: 100px; height: 100px;" src="https://i.imgur.com/lMg2sQa.png"></div>
   </div>
 </div>
 <br>
@@ -333,11 +333,14 @@
   <b-modal size="lg" id="carrinho" title="Carrinho">
 
         <template v-slot:modal-footer="{ cancel }">
+          <b-button  size="sm" variant="warning" v-on:click="limparCarrinho();">
+            Limpar carrinho
+          </b-button>     
           <b-button  size="sm" variant="success" v-on:click="adicionarProduto();">
-            Adicionar ao carrinho
-          </b-button>
+            Finalizar pedido
+          </b-button>               
           <b-button style="position: absolute;left: 10px;" size="sm" variant="danger" v-on:click="cancel();">
-            Fechar
+            Continuar comprando
           </b-button>
 
 
@@ -356,6 +359,7 @@
                 <th style="font-weight: bold;" class="tg-0lax">Preço</th>
                 <th style="font-weight: bold;" class="tg-0lax">Qtd</th>
                 <th style="font-weight: bold;" class="tg-0lax">Subtotal</th>
+                <th style="font-weight: bold;" class="tg-0lax">Subtotal</th>                
               </tr>
             </thead>
             <tbody>
@@ -377,22 +381,54 @@
                 <td class="tg-0lax">R${{ carrinho.preco }}</td>
                 <td class="tg-0lax">{{ carrinho.qtd }}</td>
                 <td class="tg-0lax">R${{ carrinho.preco * carrinho.qtd }}</td>
+                <td class="tg-0lax">R${{ carrinho.preco * carrinho.qtd }}</td>                
               </tr>
             </tbody>
             </table>          
           <br />
-          <div style="right: 120px; position: absolute">
-            {{ somarTotal()  }}
-          <b>TOTAL: {{ totalcarrinho }}</b>
+          <div style="right: 50px; position: absolute">
+
+          <p><b>TOTAL: R$00,00</b></p>
           </div>          
+          
+            <br>
+            <!-- Informações do cliente -->
+            <div>
+            <b><p>Nome</p></b>                
+            <b-form-input v-model="pedido_nome"></b-form-input>                      
+            </div>
+            <br>    
 
+            <div>
+            <b><p>Endereço</p></b>                
+            <b-form-input v-model="pedido_endereco"></b-form-input>                      
+            </div>
+            <br>   
+            
+            <div>
+            <b><p>Escolha a forma de entrega</p></b>                
+            <b-form-select v-model="forma_entrega[forma_entrega_padrao]" :options="forma_entrega" ></b-form-select>                      
+            </div>
+            <br>        
 
+            <div>
+            <b><p>Escolha a forma de pagamento</p></b>                
+            <b-form-select v-model="forma_pagamento[forma_pagamento_padrao]" :options="forma_pagamento" ></b-form-select>                      
+            </div>
+            <br>
 
-            <!-- Observações do açaí -->
+            <div>
+            <b><p>Troco para</p></b>                
+            <b-form-input type="number" v-model="pedido_troco"></b-form-input>                       
+            </div>
+            <br>           
+
+            <!-- Observações do pedido -->
             <div>
             <b><p>Observações</p></b>          
-            <textarea v-model="obsProdutoSelecionado" :maxlength="1000"  rows="4" class="form-control" aria-label="Observações" placeholder="* Informe por aqui, caso tenha adicionais pagos, qual fruta, cobertura ou complemento"></textarea>
-            </div>           
+            <textarea v-model="obsPedido" :maxlength="1000"  rows="4" class="form-control" aria-label="Observações" placeholder="* Informe por aqui"></textarea>
+            </div> 
+            
 
             </b-card>
 
@@ -447,6 +483,10 @@
           {nomeProduto: 'AÇAÍ COPO', preco: 8.50, qtd: 1, tipo: 'Acai Copo', tam: '300ml', acompanhamentos:['Leite em pó', 'Paçoca', 'Amendoin'], frutas: ['Banana', 'Morango'], obs: 'testando obs'},
           {nomeProduto: 'AÇAÍ COPao', preco: 8.00, qtd: 1, tipo: 'Acai Copo', tam: '300ml', acompanhamentos:['Leite em pó', 'Paçoca', 'Amendoin'], frutas: ['Banana', 'Morango'], obs: 'testando obs'}
         ],
+        forma_entrega: ['Vou retirar (sem taxa)', 'Delivery'],
+        forma_entrega_padrao: 0,
+        forma_pagamento: ['Dinheiro', 'Cartão (trazer máquina)'],
+        forma_pagamento_padrao: 0,
         mini: true,
       }
     },
